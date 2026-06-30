@@ -35,9 +35,9 @@ retail_data_pipeline/
 │   ├── transform.py
 │   └── load.py
 ├── sql/                     # Advanced Analytics & Business Query scripts
-│   ├── challenge1_top_suppliers.sql
-│   ├── challenge2_top_item_types.sql
-│   └── challenge3_dead_stock.sql
+│   ├── top_suppliers.sql
+│   ├── top_item_types.sql
+│   └── dead_stock.sql
 ├── main.py                  # Single orchestration entry-point script
 ├── .gitignore               # Security & storage guardrails
 └── README.md                # Documentation & Business Insights
