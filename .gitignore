@@ -1,0 +1,19 @@
+# Ignore raw data files (large datasets)
+data/landing_zone/Warehouse_and_Retail_Sales.csv
+
+# Ignore python environment & caches
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Ignore local database configs/credentials (if any)
+config.py
+.env
+
+# Ignore temporary DBeaver or IDE files
+.dbeaver/
+.vscode/
+
+# Ignore production execution logs
+logs/
