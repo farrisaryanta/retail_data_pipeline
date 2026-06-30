@@ -51,4 +51,4 @@ retail_data_pipeline/
 * **Connect with me:** 
   * 📧 Email: faryanta18@gmail.com
   * 💼 LinkedIn: [linkedin.com/in/farrisaryanta](https://linkedin.com/in/farrisaryanta)
-  * 🐙 GitHub: [github.com/[farrisaryanta](https://github.com/farrisaryanta)
+  * 🐙 GitHub: [github.com/farrisaryanta](https://github.com/farrisaryanta)
