@@ -15,6 +15,15 @@ The architecture transitions data from a flat monolithic state into a highly opt
 * **Database Client:** DBeaver
 * **Version Control:** Git & GitHub
 * **Advanced Analytics:** Advanced SQL (CTEs, Window Functions, Aggregate Having clauses)
+* **Business Intelligence:** Power BI (Interactive Dashboard Reporting)
+
+---
+
+## 📊 BI Dashboard Preview
+
+![Retail Analytics Dashboard](dashboard_preview.png)
+
+*This dashboard connects directly to a local PostgreSQL Data Warehouse to provide an end-to-end executive summary, spanning supplier performance analysis, annual product category trends, and logistics inventory anomaly audits.*
 
 ---
 
@@ -39,6 +48,8 @@ retail_data_pipeline/
 │   ├── top_item_types.sql
 │   └── dead_stock.sql
 ├── main.py                  # Single orchestration entry-point script
+├── retail_data_pipeline_dashboard.pbix  # Raw Power BI dashboard file
+├── dashboard_preview.png    # Dashboard image preview for documentation
 ├── .gitignore               # Security & storage guardrails
 └── README.md                # Documentation & Business Insights
 
